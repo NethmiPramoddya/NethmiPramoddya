@@ -6,29 +6,20 @@
 - 🌱 I'm always learning and contributing to open-source projects.
 
 
-<div style="display: flex;">
-<div style="flex: 1;">
-<h2>📊My GitHub Stats</h2>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NethmiPramoddya&show_icons=true&theme=cobalt"/>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NethmiPramoddya&show_icons=true&theme=cobalt&count_private=true&cache_seconds=1800)
 
 
-  <div style="flex: 1;">
-    <h2>🗣 Most Used Languages</h2>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiPramoddya&layout=compact&theme=cobalt"/>
-  </div>
-</div>
+## 🗣 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiPramoddya&layout=compact&theme=cobalt&count_private=true)
 
 
-## 🔝 Top Contributed Repo
-<div>
+## 🔝 Top Contributed Repos
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NethmiPramoddya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=NethmiPramoddya&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</div>
 
-<h2>🏆 GitHub Trophies</h2>
-<div align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=NethmiPramoddya&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NethmiPramoddya&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 💛 Connect & Collaborate
@@ -45,3 +36,6 @@
 </a>
 
 </div>
+
+
+
